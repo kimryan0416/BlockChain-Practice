@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-practice",
+  "version": "1.0.0",
+  "description": "Practice with blockchain implementation in JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimryan0416/BlockChain-Practice.git"
+  },
+  "keywords": [
+    "blockchain",
+    "JavaScript"
+  ],
+  "author": "Ryan Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimryan0416/BlockChain-Practice/issues"
+  },
+  "homepage": "https://github.com/kimryan0416/BlockChain-Practice#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
